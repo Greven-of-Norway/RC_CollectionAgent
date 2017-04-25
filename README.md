@@ -13,10 +13,10 @@ Featuring:
 * Duplicate collection set, or smart collection. (specifying a new name for duplicate).
 * Synchronize smart collections or collection sets (assure settings match a selected reference).
 * Copy collections or sets to and fro...
-Bonus Features:
-* Edit selected photos as a collection.
-* Divide and Conquor (spread selected photos into multiple collections)
-* @v3.6, Lr5 users don't need to have smart collection definitions on disk to duplicate or sync collections/sets.
+* Bonus Features:
+** Edit selected photos as a collection.
+** Divide and Conquor (spread selected photos into multiple collections)
+** @v3.6, Lr5 users don't need to have smart collection definitions on disk to duplicate or sync collections/sets.
 "
 
 Rob's web site is no longer online but the "Collection Agent" is taken from 
