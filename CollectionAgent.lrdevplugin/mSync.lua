@@ -1,0 +1,2 @@
+collAgent:sync()
+return true

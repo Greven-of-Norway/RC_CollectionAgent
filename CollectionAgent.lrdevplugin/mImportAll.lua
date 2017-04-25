@@ -1,0 +1,2 @@
+collAgent:importAll()
+return true

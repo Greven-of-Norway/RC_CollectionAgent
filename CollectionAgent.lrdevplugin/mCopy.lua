@@ -1,0 +1,2 @@
+collAgent:copy()
+return true

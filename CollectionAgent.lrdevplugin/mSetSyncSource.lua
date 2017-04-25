@@ -1,0 +1,2 @@
+collAgent:setSyncSource()
+return true

@@ -1,0 +1,2 @@
+collAgent:duplicate()
+return true

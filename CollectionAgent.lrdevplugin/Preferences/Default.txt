@@ -1,0 +1,22 @@
+--[[
+        Plugin configuration file.
+--]]
+
+-- declare return table
+local _t = {}
+
+
+
+--- Function to determine dumb collection name from smart collection name.
+--  @param params named parameter table with members:
+--      <br>    smartCollName (string, required) smart collection name.
+--  @return dumbCollName (string, required) dumb collection name - if nil, error; if empty: take a pass.. (must be different than smart coll name).
+_t.getDumbCollName = function( params )
+    local smartCollName = params.smartCollName or app:callingError( "no smart coll name" )
+    return "_"..smartCollName
+end
+
+
+
+-- return config table
+return _t

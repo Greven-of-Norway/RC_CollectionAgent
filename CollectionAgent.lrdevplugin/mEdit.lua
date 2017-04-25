@@ -1,0 +1,2 @@
+collAgent:editAsCollection()
+return true
